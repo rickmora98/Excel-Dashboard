@@ -19,7 +19,7 @@ Eventually, that simple spreadsheet morphed into a much larger workbook with mul
 and complicated array formulas in many of the cells. I later added VBA code to keep the sheets properly formatted for printing. And then more VBA code to assist 
 with data entry and period-end reconciling, and still more VBA code to pull data from other workbooks when the data entry became formidable. <br>
 
-I no longer work in that industry, but as this project was very important to me for so long, I still open the workbook from time to time and make some tweeks. 
+I no longer work in that industry, but as this project was very important to me for so long, I still open the workbook from time to time to make some tweaks. 
 I add features I wish I had thought of while I was still working in that role. I now know that this project would have been better suited for a business intelligence 
 application and/or a database application, but at that time, Excel was the only tool I had access to. I have created this repository and included a demonstration 
 version of this project (with fictitious entries, of course) because I think it nicely illustrates how far you can push Excel to create solutions for your data 
