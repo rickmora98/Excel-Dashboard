@@ -5,7 +5,7 @@
 During my tenure as a banquet captain at a large convention hotel, I was put in charge of the bars and wine service for all of the hotel's catered events. 
 This was a complex operation with many moving parts and it often raised questions from my many bosses about how I ran it. 
 Was my revenue on target to surpass last year and/or the goal for this year? Am I upselling our wines? Why is my cost higher this month? 
-Why did I need so many bartenders last week? Why did I spend $5000 on limes? <br>
+Why did I need so many bartenders last week? Why did I spend $1000 on limes? <br>
 
 Since the systems in which we recorded our sales, purchases, labor, and inventory usage were seperate and didn't share data, I had to come up with another method 
 to tie together all the details of my day-to-day operation and make that information available to my bosses in a way that was useful to them. 
@@ -59,7 +59,7 @@ included in actual beverage revenue and cost totals.
 #### Screen3: Year to Date Statistics <br>
 This screen is also a "report ready" page that aggregates some other relevant statistics such as total count of bars provided, guests served, drinks served, 
 events with beverage service, days with beverage events, and groups with beverage events. The average cost and revenue earned per each of these items is also 
-calculated. There were numerous other statistics that I could have included here, but these were the concepts that I was most interested in at the thime. In a 
+calculated. There were numerous other statistics that I could have included here, but these were the concepts that I was most interested in at the time. In a 
 future version of this workbook, I would like to include a timeline filter and some slicers to allow the user to investigate specific date ranges or groups or 
 events.
 
